@@ -1,0 +1,12 @@
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/bin/Debug/netcoreapp3.1/TextEdit.deps.json
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/bin/Debug/netcoreapp3.1/TextEdit.runtimeconfig.json
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/bin/Debug/netcoreapp3.1/TextEdit.runtimeconfig.dev.json
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/bin/Debug/netcoreapp3.1/TextEdit.dll
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/bin/Debug/netcoreapp3.1/TextEdit.pdb
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/obj/Debug/netcoreapp3.1/TextEdit.csprojAssemblyReference.cache
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/obj/Debug/netcoreapp3.1/TextEdit.AssemblyInfoInputs.cache
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/obj/Debug/netcoreapp3.1/TextEdit.AssemblyInfo.cs
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/obj/Debug/netcoreapp3.1/TextEdit.csproj.CoreCompileInputs.cache
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/obj/Debug/netcoreapp3.1/TextEdit.dll
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/obj/Debug/netcoreapp3.1/TextEdit.pdb
+/Users/jeffersongalceron/Documents/Dev/Csharp/TextEdit/obj/Debug/netcoreapp3.1/TextEdit.genruntimeconfig.cache
